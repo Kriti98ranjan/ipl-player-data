@@ -14,7 +14,7 @@ MONGO_URI=mongodb+srv://kritiranjan196:Fd7v4N863EgfEF2A@cluster0.9l0yfmi.mongodb
 # API Url 
 * This API for list all player : -  GET http://localhost:5000/players
 * This API for Update Player by id :-   PATCH http://localhost:5000/id
-* This API for Create a new Player  : - POST hhtp://localhost:5000/players
+* This API for Create a new Player  : - POST http://localhost:5000/players
 * This API for Delete Player by id :- http://localhost:5000/players/id
 * This API for description of Player by id/description :- GET http://localhost:5000/id/description
 
